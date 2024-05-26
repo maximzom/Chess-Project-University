@@ -1,0 +1,20 @@
+﻿ChessUI
+1.0.0.0
+
+winexe
+C#
+.cs
+D:\[Visual Studio]\[Projects]\[ConsoleAppTest]\ChessGameByZelinskyiMS\ChessUI\obj\Debug\net6.0-windows\
+ChessUI
+none
+false
+TRACE;DEBUG;NET;NET6_0;NETCOREAPP
+D:\[Visual Studio]\[Projects]\[ConsoleAppTest]\ChessGameByZelinskyiMS\ChessUI\App.xaml
+4-1284736647
+
+111314447376
+195838490969
+GameOverMenu.xaml;MainWindow.xaml;PauseMenu.xaml;PromotionMenu.xaml;
+
+True
+
